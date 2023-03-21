@@ -37,7 +37,7 @@ for (dataCard in cardMobil) {
 
 
 for (int i = 0; i < listMobil.size(); i++) {
-	if(listMobil.get(i).contains('TOYOTA')) {
+	if(listMobil.get(i).contains('DAIHATSU')||('TOYOTA')) {
 		KeywordUtil.markPassed('Filter by brand berhasil')
 	} else {
 		WebUI.comment(listMobil.get(i))

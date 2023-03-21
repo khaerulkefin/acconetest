@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tentang ACC</name>
+   <tag></tag>
+   <elementGuidId>c9a5744b-dd59-4c94-8159-259195c13853</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-LayoutWrapper']/div[4]/div/div/div[2]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d1d90bc2-df62-4b1d-8730-6b27c2c956a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/accone/TentangACC?TabNumb=0</value>
+      <webElementGuid>4fd57f7f-6e7a-4563-a9d7-633362e8703a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tentang ACC</value>
+      <webElementGuid>94de39e1-840a-41bd-8806-60df94c77c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-LayoutWrapper&quot;)/div[@class=&quot;main&quot;]/div[@class=&quot;header-top-wrapper OSInline&quot;]/div[@class=&quot;flex-justify-between container full-height&quot;]/div[@class=&quot;header-top__menu m-d-none&quot;]/div[@class=&quot;header-top__menu-link&quot;]/a[1]</value>
+      <webElementGuid>5ee41608-c595-4129-8d9f-d3e303ac7da9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-LayoutWrapper']/div[4]/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>2a10a3b1-1e89-411e-af0d-72e1642b376d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tentang ACC')]</value>
+      <webElementGuid>ade049a0-e7dd-4e63-b89c-ba22cdee21cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[1]/following::a[1]</value>
+      <webElementGuid>b23b5477-3398-4cbd-a4ee-d0af7790efee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Android'])[1]/following::a[2]</value>
+      <webElementGuid>4aa023c7-2196-4ca0-8e29-64113c368c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[1]/preceding::a[1]</value>
+      <webElementGuid>46de886a-4680-4f26-b8e3-8d1bc3d189f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karir'])[1]/preceding::a[2]</value>
+      <webElementGuid>8d051057-b890-4e98-aa3e-3e22013e13bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tentang ACC']/parent::*</value>
+      <webElementGuid>08272331-68bf-43bd-8dfd-b3755083d0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/accone/TentangACC?TabNumb=0')]</value>
+      <webElementGuid>18bedc8c-a681-4648-b79b-488214261e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>927abeb3-e42c-44e9-9fb5-8965a0aa2ec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/accone/TentangACC?TabNumb=0' and (text() = 'Tentang ACC' or . = 'Tentang ACC')]</value>
+      <webElementGuid>ce10b12b-7153-473f-9acf-b3169a002598</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

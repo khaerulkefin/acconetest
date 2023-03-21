@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Cari Dana</name>
+   <tag></tag>
+   <elementGuidId>9dd559d7-ee37-4aca-b20e-eca484d9c6d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b4-MenuCariDana']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cec32a98-7617-4e60-90c8-023dc281de98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-header-item </value>
+      <webElementGuid>cba429a7-a0fb-4d7e-9b68-10e152376afc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/accone/Produk?index=1</value>
+      <webElementGuid>ce00d9a2-2459-4244-bbcf-892531b9eeac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cari Dana</value>
+      <webElementGuid>d4b3446c-e590-4753-8afb-104a5741319f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b4-MenuCariDana&quot;)/div[@class=&quot;flex-justify-between text-menu&quot;]/a[@class=&quot;menu-header-item&quot;]</value>
+      <webElementGuid>96348eb8-4ac3-40b7-8ecf-2f723e560cb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b4-MenuCariDana']/div/a</value>
+      <webElementGuid>0d7a93a5-f45d-4ec7-a286-10becf6b560d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cari Dana')]</value>
+      <webElementGuid>eecceac7-0909-4833-a81e-ca9a48fa04fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jual Mobil'])[1]/following::a[1]</value>
+      <webElementGuid>2c20358a-3fe7-447f-85e8-ee1438b32ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Mobil Bekas'])[1]/following::a[2]</value>
+      <webElementGuid>f1dda56c-1d09-454b-8613-061935348339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fasilitas Dana'])[1]/preceding::a[1]</value>
+      <webElementGuid>c78e993d-475f-4845-8615-5b756551121f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prioritas Dana'])[1]/preceding::a[2]</value>
+      <webElementGuid>71159143-6aac-442f-b213-a30545809af4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cari Dana']/parent::*</value>
+      <webElementGuid>a47d6466-ea04-48cc-9cbc-8ad9173a5173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/accone/Produk?index=1')]</value>
+      <webElementGuid>6fee9cb5-d68d-4e95-8ae9-a872b751243d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/a</value>
+      <webElementGuid>b5f8d139-12c0-40ab-996e-ba41d836f04f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/accone/Produk?index=1' and (text() = 'Cari Dana' or . = 'Cari Dana')]</value>
+      <webElementGuid>c10631d5-9852-43cc-bd74-8862ae6a9dda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

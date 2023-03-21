@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alertEmaildanNoHP</name>
+   <tag></tag>
+   <elementGuidId>bc958681-4220-4adc-95d4-2b9f0e7fc8d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b4-b4-Input']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.validation-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3ef006e1-d370-4ab1-bfbf-4c0658e26321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validation-message</value>
+      <webElementGuid>5a4f0f22-fa84-4c05-a50d-b89e7526edb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Format email yang dimasukkan belum sesuai, Contoh : biko.maryono@gmail.com</value>
+      <webElementGuid>c755b77c-7e2b-4f95-863e-84d8b18cc67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b4-b4-Input&quot;)/span[@class=&quot;input-text&quot;]/span[@class=&quot;validation-message&quot;]</value>
+      <webElementGuid>adc0e24b-dbb2-4a93-bf0c-7fac5ff7bd8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b4-b4-Input']/span/span</value>
+      <webElementGuid>027d227e-1043-4f04-bc1f-0e0ecf6cebaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email atau Nomor Handphone'])[1]/following::span[2]</value>
+      <webElementGuid>8978feb3-ff21-4afa-bae3-a9bcbfd8f825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/following::span[3]</value>
+      <webElementGuid>5aaced87-8520-4aba-b203-ae6af3987623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/preceding::span[1]</value>
+      <webElementGuid>80fa3462-32e2-4f0c-a445-28a827f19987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi?'])[1]/preceding::span[3]</value>
+      <webElementGuid>5882ad4a-9a88-4872-9681-1659f6698861</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Format email yang dimasukkan belum sesuai, Contoh : biko.maryono@gmail.com']/parent::*</value>
+      <webElementGuid>94747219-78f0-452a-855d-9c777c9c8e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>9eac1cfa-45ce-4d1a-a8eb-2ddcc733bd29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Format email yang dimasukkan belum sesuai, Contoh : biko.maryono@gmail.com' or . = 'Format email yang dimasukkan belum sesuai, Contoh : biko.maryono@gmail.com')]</value>
+      <webElementGuid>a056892f-ccdb-40fc-8dbd-70edbbf4d6f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>JualBeli Mobil</name>
+   <tag></tag>
+   <elementGuidId>cb9f40e3-b5a4-4340-a968-5e50d1b9dd8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b4-MenuCariMobil']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>428e568f-a29a-4eaa-bee6-9722c8601345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-header-item </value>
+      <webElementGuid>85de6736-5d6d-4ee9-bd95-0bb2e30989fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/accone/Produk?index=0</value>
+      <webElementGuid>6c862e16-840d-45de-b18a-b264685ef825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jual/Beli Mobil</value>
+      <webElementGuid>cbaa414d-49bb-4f22-af1e-8a27ab03949d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b4-MenuCariMobil&quot;)/div[@class=&quot;flex-justify-between text-menu&quot;]/a[@class=&quot;menu-header-item&quot;]</value>
+      <webElementGuid>e6c565d7-c741-42f8-918b-07f3e94bbe83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b4-MenuCariMobil']/div/a</value>
+      <webElementGuid>532ee674-9cc4-47b1-94d9-cec84f06f88e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Jual/Beli Mobil')]</value>
+      <webElementGuid>a3f86e6c-41dc-470f-b1e4-4251ec22fb6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seputar Produk'])[1]/following::a[1]</value>
+      <webElementGuid>12a55c0a-af55-429f-a2b0-ea91821f5781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[2]/following::a[2]</value>
+      <webElementGuid>4a088918-cb13-4bf8-b19c-d88dab43fbf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Mobil Baru'])[1]/preceding::a[1]</value>
+      <webElementGuid>3cb3a84e-cdbd-46a8-843f-8e4584e7ccde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Mobil Bekas'])[1]/preceding::a[2]</value>
+      <webElementGuid>c8a50e47-ecc9-44dd-a317-674cd0c0625a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jual/Beli Mobil']/parent::*</value>
+      <webElementGuid>f7636e60-9f81-4b10-a076-c98368cb10ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/accone/Produk?index=0')])[3]</value>
+      <webElementGuid>0f9af97d-51b5-430c-9041-75b828f34e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a</value>
+      <webElementGuid>c24f95e1-a8b3-421d-91c2-482472a91c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/accone/Produk?index=0' and (text() = 'Jual/Beli Mobil' or . = 'Jual/Beli Mobil')]</value>
+      <webElementGuid>caed04dc-ada5-445c-b851-842998dea1b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

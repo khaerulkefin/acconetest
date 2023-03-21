@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Beli Mobil Bekas</name>
+   <tag></tag>
+   <elementGuidId>9c853e87-62ac-41af-a65f-423fab139ae0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b4-MenuCariMobil']/div[2]/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.sub-menu__item.flex-justify-between.ThemeGrid_MarginGutter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>237c771d-e884-4914-ae06-48fcf0da20e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-menu__item flex-justify-between ThemeGrid_MarginGutter</value>
+      <webElementGuid>60223876-0ed6-44a2-8c9a-d45b45342ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/accone/UsedCar_Catalog?title=Daftar-Harga-Mobil-Bekas</value>
+      <webElementGuid>e8becd45-8707-4f03-b6dd-24c8e5debe94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beli Mobil Bekas</value>
+      <webElementGuid>1a1438cc-4205-4692-bca2-53273b0cf854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b4-MenuCariMobil&quot;)/div[@class=&quot;sub-menu cari-mobil OSInline&quot;]/a[@class=&quot;sub-menu__item flex-justify-between ThemeGrid_MarginGutter&quot;]</value>
+      <webElementGuid>30035707-13d2-460e-9c3b-c2ca2adcc261</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b4-MenuCariMobil']/div[2]/a[2]</value>
+      <webElementGuid>f931b91d-ff32-498e-90cd-04ea4857216e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Beli Mobil Bekas')]</value>
+      <webElementGuid>ad159924-d729-4871-a853-61de1ca4702e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Mobil Baru'])[1]/following::a[1]</value>
+      <webElementGuid>81ca8810-b471-4be4-a62d-5eba0a7cf310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jual/Beli Mobil'])[1]/following::a[2]</value>
+      <webElementGuid>3632137d-0748-495e-b11a-f23c2c6804cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jual Mobil'])[1]/preceding::a[1]</value>
+      <webElementGuid>7ce76f3b-e858-4f8b-baba-6bb58a8a0e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cari Dana'])[1]/preceding::a[2]</value>
+      <webElementGuid>e0840506-b8bf-4562-b460-b6f7de75fc69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Beli Mobil Bekas']/parent::*</value>
+      <webElementGuid>38c63627-c2ac-4567-a064-759fddb9fdbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/accone/UsedCar_Catalog?title=Daftar-Harga-Mobil-Bekas')]</value>
+      <webElementGuid>1cdbbb0e-9e6d-4384-a647-769f1623934c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>4ea26a46-0556-428c-9b22-7ad40f1fbcfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/accone/UsedCar_Catalog?title=Daftar-Harga-Mobil-Bekas' and (text() = 'Beli Mobil Bekas' or . = 'Beli Mobil Bekas')]</value>
+      <webElementGuid>6fe1a7c4-002f-4cd9-833c-f938cd34e343</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

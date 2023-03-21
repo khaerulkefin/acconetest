@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Android</name>
+   <tag></tag>
+   <elementGuidId>689fc846-ff66-459b-81c2-7a22e2665a0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ThemeGrid_Width6.ThemeGrid_MarginGutter > a > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b1-LayoutWrapper']/div[4]/div/div/div/div/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d212c78-04ed-46ff-ae10-e7ed50caae6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Android</value>
+      <webElementGuid>0300581c-4aa1-4ed7-8eb9-370bec0083b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b1-LayoutWrapper&quot;)/div[@class=&quot;main&quot;]/div[@class=&quot;header-top-wrapper OSInline&quot;]/div[@class=&quot;flex-justify-between container full-height&quot;]/div[@class=&quot;download-header position-relative&quot;]/div[@class=&quot;select_download&quot;]/div[@class=&quot;ThemeGrid_Width6 ThemeGrid_MarginGutter&quot;]/a[1]/div[1]</value>
+      <webElementGuid>22b22750-328e-428a-84b6-5b7623b32dac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b1-LayoutWrapper']/div[4]/div/div/div/div/div[2]/a/div</value>
+      <webElementGuid>bffad4fb-e1b9-4058-9f8b-554ed6fc13cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iOS'])[1]/following::div[2]</value>
+      <webElementGuid>beb9955e-c7a5-474f-8851-25c58236ef5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download aplikasi ACC ONE'])[1]/following::div[6]</value>
+      <webElementGuid>02420adc-913e-4701-9820-3bac60072933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pusat Bantuan'])[1]/preceding::div[2]</value>
+      <webElementGuid>776899eb-901c-40f3-bd5d-cd770f32a2d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div</value>
+      <webElementGuid>99e38713-dc3a-4835-985a-6092bbef1ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Android' or . = 'Android')]</value>
+      <webElementGuid>15ee1b33-74c9-4a4f-8af7-e41f3587daa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alertPassword</name>
+   <tag></tag>
+   <elementGuidId>eb0ce855-4eaf-4640-94af-13540e5e8d96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b4-InputKataSandi3']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.input-password > span.validation-message</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5f899111-4bfc-4c04-a16f-c2111983c737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validation-message</value>
+      <webElementGuid>c44e1cff-40aa-4bea-ae53-460d3de035f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata Sandi minimal 7 Karakter</value>
+      <webElementGuid>7c846ede-73c3-4b41-9428-9e3ae8166daf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b4-InputKataSandi3&quot;)/span[@class=&quot;input-password&quot;]/span[@class=&quot;validation-message&quot;]</value>
+      <webElementGuid>7b87f6cb-6d1c-47c8-b55e-8711fc61a087</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b4-InputKataSandi3']/span/span</value>
+      <webElementGuid>4beaa456-1a9c-4ee3-a6f9-549912e91b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::span[2]</value>
+      <webElementGuid>fe756373-dfb2-4262-8bec-101872da6d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Format email yang dimasukkan belum sesuai, Contoh : biko.maryono@gmail.com'])[1]/following::span[3]</value>
+      <webElementGuid>fba53fa2-a4d9-4e65-9adb-22f9fe49b9f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi?'])[1]/preceding::span[1]</value>
+      <webElementGuid>d6972f96-12b7-43be-a878-b4c4ae6ee692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::span[1]</value>
+      <webElementGuid>e28d13ab-9f61-44ed-a3f3-4d124d862b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kata Sandi minimal 7 Karakter']/parent::*</value>
+      <webElementGuid>0383cf70-1f98-4dbd-b578-73937eb9b703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span</value>
+      <webElementGuid>befcbfd4-a1ac-4e20-923a-635007ceb1da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kata Sandi minimal 7 Karakter' or . = 'Kata Sandi minimal 7 Karakter')]</value>
+      <webElementGuid>74b7adcc-e049-46eb-8559-8d54e4ba2830</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

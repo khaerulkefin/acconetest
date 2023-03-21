@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Layanan Pelanggan</name>
+   <tag></tag>
+   <elementGuidId>0fe577f3-b853-4017-bafb-2e48f4e52812</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b4-MenuLayanan']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>792a1517-9e57-4515-92f3-a515e04b3a1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-header-item </value>
+      <webElementGuid>a6c1257f-dfae-4b99-8ac9-97551acac71e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/accone/Profile?FromScreen=Kontrak+Saya</value>
+      <webElementGuid>a058cbfd-8cda-4a6d-a4a2-cd51f6848270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Layanan Pelanggan</value>
+      <webElementGuid>89a647b4-16dc-4b70-a095-f5175f223b54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b4-MenuLayanan&quot;)/div[@class=&quot;flex-justify-between text-menu&quot;]/a[@class=&quot;menu-header-item&quot;]</value>
+      <webElementGuid>4c23b677-de57-48e7-8927-6055c2a65a61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b4-MenuLayanan']/div/a</value>
+      <webElementGuid>14b11c51-7fc0-436a-86d2-196b9992b2e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Layanan Pelanggan')]</value>
+      <webElementGuid>f13e35d9-e59a-4ac2-b5b8-ca0cadd32e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACC Syariah Haji'])[1]/following::a[1]</value>
+      <webElementGuid>b24ba625-bcdf-4f18-9267-9a2a3f878a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACC Syariah Dana'])[1]/following::a[2]</value>
+      <webElementGuid>55cadd6d-cc98-44f5-982a-0554d4a9b531</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Pengajuan'])[1]/preceding::a[1]</value>
+      <webElementGuid>a9522f95-2487-40cf-bb7c-b96822bdc069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Kontrak'])[1]/preceding::a[2]</value>
+      <webElementGuid>171094ac-1db1-4cc7-a6de-8cf714bc883e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Layanan Pelanggan']/parent::*</value>
+      <webElementGuid>9b690a1c-a6f0-4aeb-8d05-669d27752456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/accone/Profile?FromScreen=Kontrak+Saya')]</value>
+      <webElementGuid>43b395c4-60e9-45ba-a32a-8274d19a128e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a</value>
+      <webElementGuid>2a7ace3d-9be1-40e3-ba66-25a65fb390b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/accone/Profile?FromScreen=Kontrak+Saya' and (text() = 'Layanan Pelanggan' or . = 'Layanan Pelanggan')]</value>
+      <webElementGuid>f73aed5e-2e9b-4650-a2e1-ed6293d1698d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login email tidak sesuai format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f4aeac4-c4ec-4f9e-a234-7875fcd8f62d</testCaseGuid>
+</TestCaseEntity>

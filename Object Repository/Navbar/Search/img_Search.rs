@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Search</name>
+   <tag></tag>
+   <elementGuidId>d07562e0-7dc5-4952-8253-f04a065a50d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#b4-Search > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b4-Search']/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7d664a6d-7057-439f-8c51-8805cc97f477</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/accone/img/accone.IconSearchWithCircle.png?HtD+1LlFUFcZvcY9BPnvTA</value>
+      <webElementGuid>912f0e9a-934e-4368-9154-9199ab7af033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b4-Search&quot;)/img[1]</value>
+      <webElementGuid>cbcb1b0c-83ee-49f4-a630-9836ea1b0910</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b4-Search']/img</value>
+      <webElementGuid>6c30a172-c9c5-41e6-93d1-62b533246bce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/img</value>
+      <webElementGuid>4acc489e-e43b-48e6-9b62-2d3bd58e71b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/accone/img/accone.IconSearchWithCircle.png?HtD+1LlFUFcZvcY9BPnvTA']</value>
+      <webElementGuid>5570462c-3ac7-4006-a11b-70e1e23a5598</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

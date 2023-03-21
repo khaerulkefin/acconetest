@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kata Sandi yang dimasukkan tidak sama</name>
+   <tag></tag>
+   <elementGuidId>0c250e9d-99f9-47c8-8680-af84fc1f5919</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#b5-InputKonfirmKataSandi > span.input-password > span.validation-message</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='b5-InputKonfirmKataSandi']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf9450b4-da30-451c-946c-76ba9a64bb3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validation-message</value>
+      <webElementGuid>3afc6b85-5490-46f6-a222-e03c2004f2e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata Sandi yang dimasukkan tidak sama</value>
+      <webElementGuid>682e2687-177c-4258-b5be-f6683b46b51e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b5-InputKonfirmKataSandi&quot;)/span[@class=&quot;input-password&quot;]/span[@class=&quot;validation-message&quot;]</value>
+      <webElementGuid>4efc51c4-cf7a-428b-8ccd-79e797d9a375</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='b5-InputKonfirmKataSandi']/span/span</value>
+      <webElementGuid>74760f80-478d-4fda-a22c-382f0ea60023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Kata Sandi'])[1]/following::span[2]</value>
+      <webElementGuid>87aa2294-8fb7-4dce-9997-a1df97073a8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimal 7 karakter dan kombinasi angka. Contoh : Astra345'])[1]/following::span[3]</value>
+      <webElementGuid>d381cf1e-1740-4535-94df-4b23235750fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[2]/preceding::span[1]</value>
+      <webElementGuid>9271b7d7-79af-49ce-971f-9efc0aa96f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perlu Bantuan?'])[1]/preceding::span[1]</value>
+      <webElementGuid>c94e0690-1f20-4aec-a67b-0359eeb6a812</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kata Sandi yang dimasukkan tidak sama']/parent::*</value>
+      <webElementGuid>8f8adcd6-b707-49f1-a48f-3fc30f9688b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div[2]/div/div/div[2]/div/span/span</value>
+      <webElementGuid>b82c9b98-bb2b-4b11-9389-fe4107cfb8b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kata Sandi yang dimasukkan tidak sama' or . = 'Kata Sandi yang dimasukkan tidak sama')]</value>
+      <webElementGuid>4c35ff3b-7497-42c5-a45a-e2588072ca84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
